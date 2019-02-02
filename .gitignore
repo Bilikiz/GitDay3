@@ -13,7 +13,7 @@ GitDay3.iml
 *.iws
 
 # Mac
-.DS_Store
+.DS_Storegit status
 
 # Maven
 log/
